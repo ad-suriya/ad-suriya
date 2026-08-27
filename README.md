@@ -6,11 +6,11 @@ Student developer building full-stack, AI-powered products — usually shipped i
 
 ## Projects
 
-| Project | What it does |
-|---|---|
-| [**Fin Sentinel**](https://github.com/ad-suriya/finsentinal) | Privacy-preserving fraud intelligence platform — lets independent banks share hashed risk signals and catch cross-institution fraud (smurfing, layering) without exposing raw customer data. Built at VVORTEX 2026 (VIT Chennai) |
-| [**Task Weave**](https://github.com/ad-suriya/Vibe2Ship) | An AI focus companion, not a task manager — captures a task from anywhere, builds a time-blocked plan, blocks distracting sites during a session, and reschedules automatically when plans slip. Chrome extension + web dashboard. |
-| [**Dayflow**](https://github.com/ad-suriya/oddo-Hackathon) | An HRMS platform centralizing employee records, attendance, leave, and payroll, with separate access levels for employees and HR/admin. |
+| Project | What it does | Role |
+|---|---|---|
+| [**Fin Sentinel**](https://github.com/ad-suriya/finsentinal) | Privacy-preserving fraud intelligence platform — lets independent banks share hashed risk signals and catch cross-institution fraud (smurfing, layering) without exposing raw customer data. Built at VVORTEX 2026 (VIT Chennai) | Team lead |
+| [**Task Weave**](https://github.com/ad-suriya/Vibe2Ship) | An AI focus companion, not a task manager — captures a task from anywhere, builds a time-blocked plan, blocks distracting sites during a session, and reschedules automatically when plans slip. Chrome extension + web dashboard. | Solo project |
+| [**Dayflow**](https://github.com/ad-suriya/oddo-Hackathon) | An HRMS platform centralizing employee records, attendance, leave, and payroll, with separate access levels for employees and HR/admin. | Team lead |
 
 ## Collaborations
 
