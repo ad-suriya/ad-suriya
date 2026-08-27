@@ -1,6 +1,6 @@
 # Hi, I'm A D Suriya 👋
 
-Student developer building full-stack, AI-powered products — usually shipped in 24 hours flat, across hackathons.
+Student developer and aspiring cloud engineer building full-stack, AI-powered products — usually shipped in 24 hours flat, across hackathons.
 
 **Stack:** TypeScript / JavaScript · React (Vite) · Node.js (Express) · Python (FastAPI) · PostgreSQL · Firebase · TailwindCSS
 
